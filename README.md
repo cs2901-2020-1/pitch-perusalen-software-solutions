@@ -1,4 +1,4 @@
-# Pachay:
+# Pachay
 
 ## Glosario:
 
